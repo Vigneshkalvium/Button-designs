@@ -133,8 +133,12 @@ a span:nth-child(4){
     *{
         background-color: black;
         position: relative;
-        margin-top: 10px;
+        /* margin-top: 10px; */
     }
+    body{
+        padding: 10px;
+    }
+
     a
 {
     position: relative;

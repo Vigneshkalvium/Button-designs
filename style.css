@@ -235,7 +235,7 @@ a span:nth-child(4){
     width: 1px;
     height: 100%;
     background: linear-gradient(180deg, transparent,red);
-    animation: animate4 1s infinite;
+    animation: animate4 3s infinite;
     animation-delay:.75s ;
     rotate: 180deg;
 }
